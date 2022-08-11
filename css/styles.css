@@ -5,6 +5,13 @@
     width: 10;
 }
 
+
+span {
+  position: relative;
+  line-height: 1.8em;
+}
+
+
   hr {
 
     border-style: none;
@@ -21,5 +28,6 @@ h1 {
 }
 
 h3 {
-  color: #FF0063;
+  /* color: #FF0063; */
+  color: #66BFBF;
 }
